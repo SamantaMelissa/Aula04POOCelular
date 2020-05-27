@@ -1,0 +1,17 @@
+C:\Users\saman\OneDrive\Documentos\obj\Debug\netcoreapp3.1\Documentos.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\obj\Debug\netcoreapp3.1\Documentos.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\obj\Debug\netcoreapp3.1\Documentos.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\obj\Debug\netcoreapp3.1\Documentos.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\pasta nova\Aula04POOCelular\bin\Debug\netcoreapp3.1\Documentos.exe
+C:\Users\saman\OneDrive\Documentos\pasta nova\Aula04POOCelular\bin\Debug\netcoreapp3.1\Documentos.deps.json
+C:\Users\saman\OneDrive\Documentos\pasta nova\Aula04POOCelular\bin\Debug\netcoreapp3.1\Documentos.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\pasta nova\Aula04POOCelular\bin\Debug\netcoreapp3.1\Documentos.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\pasta nova\Aula04POOCelular\bin\Debug\netcoreapp3.1\Documentos.dll
+C:\Users\saman\OneDrive\Documentos\pasta nova\Aula04POOCelular\bin\Debug\netcoreapp3.1\Documentos.pdb
+C:\Users\saman\OneDrive\Documentos\pasta nova\Aula04POOCelular\obj\Debug\netcoreapp3.1\Documentos.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\pasta nova\Aula04POOCelular\obj\Debug\netcoreapp3.1\Documentos.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\pasta nova\Aula04POOCelular\obj\Debug\netcoreapp3.1\Documentos.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\pasta nova\Aula04POOCelular\obj\Debug\netcoreapp3.1\Documentos.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\pasta nova\Aula04POOCelular\obj\Debug\netcoreapp3.1\Documentos.dll
+C:\Users\saman\OneDrive\Documentos\pasta nova\Aula04POOCelular\obj\Debug\netcoreapp3.1\Documentos.pdb
+C:\Users\saman\OneDrive\Documentos\pasta nova\Aula04POOCelular\obj\Debug\netcoreapp3.1\Documentos.genruntimeconfig.cache
